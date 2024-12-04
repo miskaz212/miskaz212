@@ -1,7 +1,7 @@
 
 <h6><img src="https://i.makeagif.com/media/5-18-2016/WKQEcs.gif" style="width: 70px; "> Welcome To GitHub Miskaz212</h6>
 
-<h6><img src="https://cdn.dribbble.com/users/2288151/screenshots/5356092/media/cdb283ddc3c0368cbc05b7a50f15e529.gif" style="height: 305px;"><br>" Hanya wanita di balik layar yang bikin semuanya berjalan."</h6>
+<h6><img src="https://cdn.dribbble.com/users/2288151/screenshots/5356092/media/cdb283ddc3c0368cbc05b7a50f15e529.gif" style="height: 305px;"><br> <i>"Hanya wanita di balik layar yang bikin semuanya berjalan."</i> </h6>
 
 <h2 align="left">💻 Tech Stack</h2>
 
